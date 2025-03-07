@@ -16,7 +16,7 @@ cat <<EOF > /var/www/html/index.html
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Terraform Project</title>
+  <title>My AWS Infra Automation with Terraform</title>
   <style>
     /* Add animation and styling for the text */
     @keyframes colorChange {
@@ -31,7 +31,7 @@ cat <<EOF > /var/www/html/index.html
 </head>
 <body>
   <h1>This is Terraform Project Server 1</h1>
-    <b>Welcome to Nikhil's AWS Infrastucture Project</b>
+    <b>Welcome to AWS Infra Automation</b>
   
 </body>
 </html>
