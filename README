@@ -1,4 +1,4 @@
-*/AWS_PROJECT_WITHTERRAFORM
+*/AWS_INFRA_WITH_TERRAFORM
 │
 ├── /modules
 │   ├── /networking
@@ -45,8 +45,8 @@ NOTE: Do Not Share this ID and Secret Key with anyone.
 Now come to terminal give the command as below
 1. aws Configure
 
-AWS Access Key ID [None]: ABCDXXXXXXXXXXXXX
-AWS Secret Access Key [None]: ************************************
+AWS Access Key ID [None]: XXXXXXXXXXXXXXXXX
+AWS Secret Access Key [None]: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Default region name [None]: us-east-1
 Default output format [None]: Json
 
